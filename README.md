@@ -1,10 +1,10 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-November 17,2021
+November 23,2021
 
 ### Project Title
-Project 3 - Programming for Data Science with Python
+US Bikeshare Data Analysis Project
 
 ### Description
 In the bikeshare project, Python was used to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. A code was written to import the data and answer interesting questions about it by computing descriptive statistics, and write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
