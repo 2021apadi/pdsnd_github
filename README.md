@@ -31,10 +31,9 @@ The code helps user to tell about bike share use in Chicago, New York City and W
 
 ### Files used
 Installing GIT tool : https://git-scm.com/downloads.
-The following file contains necessary commands used to do tasks:
-Git Commands Documentation.pdf
+
 The following files helps to understand the Git key terms:
-Git-KeyTerms.pdf
+file:///C:/New%20folder%20(4)/New%20folder%20(3)/Downloads/Git-keyterm%20(3).pdf
 
 Files used for Project 2 are:
 washington.csv
