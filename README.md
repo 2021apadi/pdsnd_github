@@ -1,20 +1,18 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-November 17,2021
+November 23,2021
 
 ### Project Title
-Project 3 - Programming for Data Science with Python
+Project 2 -Bike share project
 
 ### Description
-In this project, you'll be simulating a realistic workflow to refactor your previous Project 2 using Git.
+In the bikeshare project, Python was used to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. A code was written to import the data and answer interesting questions about it by computing descriptive statistics, and write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+
+The developed CLI program allows  to explore an US bikeshare system database and retrieve statistics information from the database. It is able to filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. We are able  to view raw data and  sort this data by columns, in ascending or descending order.
+
 
 ### Files used
-Installing GIT tool : https://git-scm.com/downloads.
-The following file contains necessary commands used to do tasks:
-Git Commands Documentation.pdf
-The following files helps to understand the Git key terms:
-Git-KeyTerms.pdf
 
 Files used for Project 2 are:
 washington.csv
