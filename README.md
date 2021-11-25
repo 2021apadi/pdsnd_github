@@ -47,6 +47,7 @@ This program was written in Python (version 3.8.8) and relies on the following l
 ### Credits
 
 • Richard Kalehoff https://github.com/richardkalehoff https://twitter.com/richardkalehoff 
+
 • Juno Lee (Udacity Team Mentor) https://github.com/junolee
 
 
