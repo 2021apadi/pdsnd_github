@@ -4,7 +4,7 @@
 November 23,2021
 
 ### Project Title
-Project 2 -Bike share project
+US Bikeshare Data Analysis Project
 
 ### Description
 In the bikeshare project, Python was used to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. A code was written to import the data and answer interesting questions about it by computing descriptive statistics, and write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
@@ -74,7 +74,7 @@ This program was written in Python (version 3.8.8) and relies on the following l
 
 ### Credits
 
-•	Richard Kalehoff 
+•	Richard Kalehoff (Udacity Team Mentor)
  https://github.com/richardkalehoff
  https://twitter.com/richardkalehoff
 •	Juno Lee (Udacity Team Mentor)
