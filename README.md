@@ -60,6 +60,8 @@ o	counts of each user type
 o	counts of each gender (only available for NYC and Chicago)
 o	earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
+### 
+
 
 
 ### Files used
@@ -69,8 +71,17 @@ washington.csv
 new_york_city.csv
 chicago.csv
 
-Requirements for Project 2
-This program was written in Python (version 3.8.8) and relies on the following libraries(Pandas:1.2.4,NumPy:1.20.1)
+
+### Installation links for softwares and Softwares needed:
+		
+The link for commit message style reference for this project is given below :
+		- [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
+		
+		* Python 3, NumPy,_ and _Pandas_ installed using _Anaconda_
+		* A text editor, like _VS Code_ or _Atom_.
+		* A terminal application (_Terminal_ on _Mac_ and _Linux_ or _Cygwin_ on _Windows_).
+		
+   The bikeshare data program was written in Python (version 3.8.8) and relies on the following libraries(Pandas:1.2.4,NumPy:1.20.1)
 
 ### Credits
 
